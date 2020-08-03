@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**joshwingreene/joshwingreene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a design-minded mobile/web app developer that has explored the realms of software engineering and user experience design, but has ultimately decided to stick with software engineering for his career.
 
-Here are some ideas to get you started:
+- 🔭  I'm currently working on Project Iota, which is an upcoming Save-for-Later app and digital media aggregator app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻  Past software development work: https://www.notion.so/Past-Development-Work-c819124e9f894143b80e947b6da92061
+
+- 🏠  Past community activities: https://www.notion.so/Past-Community-Activities-06159b304aa943c2a659cee8a2c25e50
+
+- 📫  How to reach me: joshwin@hey.com
+
+### I'm available for work!
+
+
