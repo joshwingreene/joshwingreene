@@ -8,6 +8,8 @@ I'm a design-minded mobile/web app developer that has explored the realms of sof
 
 - 🏠   Past community activities: https://www.notion.so/Past-Community-Activities-06159b304aa943c2a659cee8a2c25e50
 
+- ✍🏾   Check out my most recent blog post: [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
+
 - 🔭   I'm currently working on Project Iota, which is an upcoming Save-for-Later and digital media aggregator app.
 
 - 📫   How to reach me: joshwin@hey.com
