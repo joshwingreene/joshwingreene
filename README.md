@@ -4,9 +4,11 @@ I'm a design-minded mobile/web app developer that has explored the realms of sof
 
 - 💼   [Updated Resume](https://drive.google.com/file/d/1GedxnArumThbqqoBAC8Yoy_S5L5pAR4m/view?usp=sharing)
 
-- 💻   Past software development work: https://www.notion.so/Past-Development-Work-c819124e9f894143b80e947b6da92061
+- 💻   [Past software development work](https://joshwin.dev/past-dev-work.html)
 
-- 🏠   Past community activities: https://www.notion.so/Past-Community-Activities-06159b304aa943c2a659cee8a2c25e50
+- 🔬   [Past design work](https://joshwin.dev/past-design-work.html)
+
+- 🏠   [Learn more about me and my past community activities](https://joshwin.dev/about.html)
 
 - ✍🏾   Check out my most recent blog post: [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 
