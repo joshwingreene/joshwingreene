@@ -12,10 +12,5 @@ I'm a design-minded mobile/web app developer that has explored the realms of sof
 
 - ✍🏾   Check out my most recent blog post: [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 
-- 🔭   I'm currently working on Project Iota, which is an upcoming Save-for-Later and digital media aggregator app.
-
 - 📫   How to reach me: joshwin@hey.com
-
-### I'm available for work!
-
 
