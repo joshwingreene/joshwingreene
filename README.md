@@ -1,16 +1,14 @@
 ### Welcome!
 
-I'm a design-minded mobile/web app developer that has explored the realms of software engineering and user experience design, but have ultimately decided to stick with software engineering for my career.
+A full-stack and design-minded .NET and React developer with experience building multi-tiered web applications.
 
-- 💼   [Updated Resume](https://drive.google.com/file/d/1GedxnArumThbqqoBAC8Yoy_S5L5pAR4m/view?usp=sharing)
+- 💼   [Updated Resume](https://drive.google.com/file/d/1kUCpUQe98PRbjOO51By_3WbOwqhol76R/view?usp=sharing)
 
 - 💻   [Past software development work](https://joshwin.dev/past-dev-work.html)
 
 - 🔬   [Past design work](https://joshwin.dev/past-design-work.html)
 
 - 🏠   [Learn more about me and my past community activities](https://joshwin.dev/about.html)
-
-- ✍🏾   Check out my most recent blog post: [How I use Obsidian to manage my goals, tasks, notes, and software development knowledge base](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
 
 - 📫   How to reach me: joshwin@hey.com
 
