@@ -1,6 +1,6 @@
 ### Welcome!
 
-A full-stack and design-minded .NET and React developer with experience building multi-tiered web applications.
+I'm a full-stack and design-minded .NET and React developer with experience building multi-tiered web applications.
 
 - 💼   [Updated Resume](https://drive.google.com/file/d/1kUCpUQe98PRbjOO51By_3WbOwqhol76R/view?usp=sharing)
 
